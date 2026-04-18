@@ -1,5 +1,5 @@
-## Hi there 👋 
-# It's me Ayaan!
+# Hi there 👋 
+## It's me Ayaan!
 
 <!--
 **drakereaver/drakereaver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
